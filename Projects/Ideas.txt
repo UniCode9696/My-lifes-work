@@ -1,3 +1,6 @@
+In this file you'll find all of my coding (and mabye other) project ideas I thought of and am working, have worked or want to work on some day.
+
+
 Current:
 - M.E. (MyEngine; Ui and stuff)
 
@@ -9,16 +12,17 @@ Delayed:
 
 Future:
 - 2D Portal game; Sideview; Skillbased; (Portal-gun, grappler, slow-Mo, etc.)
-- 2D Robbing game; Topdown; (Like this mobile 'robs robbery' or so)
+- 2D Robbing game; Topdown; (Inspired by this mobile 'robs robbery' or so)
 - 2D Changing maze game; Topdown;
-- 2D Industry Factory building game; (Like this mobile one)
-- 2D Aufbau game; Open world; (Like 'Stardew Valley')
-- 3D Space exploring and base building, etc. Simulator or so to explore planets for resources; Open world; (Angelehnt an 'Deep Rock Galactic')
+- 2D Industry factory building game; (Inspired by 'Assembly Line')
+- 2D Aufbau game; Open world; (Inspired by 'Stardew Valley' / 'Minecraft')
+- 3D Space exploring game; Base building;
+Explore planets for resources; Open world; (Inspired by 'Deep Rock Galactic')
 - 3D Voxelart style game
 
-- Greenfoot 3D Engine (+ raytracing?)
-- Raycasting 3D (Like Doom)
-- Circuit simulator (Editor + run); Be able to build a working computer (Look at: https://www.youtube.com/watch?v=CW9N6kGbu2I)
+- In Greenfoot 3D Engine (+ raytracing?)
+- Raycasting 3D (Like 'Doom')
+- Circuit simulator (Editor + Run); Be able to build a working computer (Look at: https://www.youtube.com/watch?v=CW9N6kGbu2I)
 - Life and evolution simulations
 - Nice physics engine (Colliders of all sorts, particles, ...)
 - Particle simulations
