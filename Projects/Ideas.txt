@@ -6,6 +6,7 @@ Current:
 
 
 Delayed:
+- My own computer (processor) architecture & instruction set (concept done but not tested yet)
 - 3D engine (Raytracing)
 - Networking
 
