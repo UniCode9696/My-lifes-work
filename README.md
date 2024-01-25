@@ -11,3 +11,7 @@ So go on! If you want to read what nobody else tells you about life and experien
 
 
 (P.s.: I really don't think anyone will ever read this lol. But if so: Sorry for my English sometimes. I am as already stated German and although my English is quite good, there may still be some situations that just sound wierd to the native speaker)
+
+
+<h1>Who I am</h1>
+I already briefly introduced myself so here I will add on to that and give a little more depth and context of who I am.
