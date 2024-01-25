@@ -10,7 +10,7 @@ A part of the motivation for writing all of this down (I know Github may not see
 So go on! If you want to read what nobody else tells you about life and experience life changing discoveries yourself, you're at the right place!
 
 
-(P.s.: I really don't think anyone will ever read this lol. But if so: Sorry for my English sometimes. I am as already stated German and although my English is quite good, there may still be some situations that just sound wierd to the native speaker)
+(I really don't think anyone will ever read this lol. But if so: Sorry for my English sometimes. I am as already stated German and although my English is quite good there may still be some situations that just sound wierd to the native speaker)
 
 
 <h1>Who I am</h1>
