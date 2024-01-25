@@ -1,6 +1,7 @@
 <h1>What this should be</h1>
 
 Hello everybody!
+
 I am a (at the point of starting all this) 16 year old German boy with many interests and achievements. In this github repository I just want to collect and safely store all the things I think are worth to be shown off and may be interesting or helpful for some other person on the planet :).
 
 The stuff you'll find in here will vary but mostly being insane realizations about life, my views on some things, why people are who they are, nerdy sience stuff and my coding projects and still so much more. The texts I'll write will originally be written in German (because I can articulate myself way more accurately then) but I'll also always provide a google translated file in English.
